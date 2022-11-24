@@ -1,5 +1,6 @@
-<h1 align="center">Hi there👋, I'm Pavan</h1>
-<h3 align="center">A passionate Software developer from India</h3>
+## Hi there👋, I'm Pavan
+### A passionate Software developer from India
+</br>
 
 - 🌱 I’m currently learning **Node.js, Firebase**
 
@@ -9,11 +10,11 @@
 
 - 📫 How to reach me **pavankommi0503@gmail.com**
 
-<h3 align="left">Reach me at</h3>
+### Reach me at
 <p align="left">
-<a href="https://linkedin.com/in/pavankommi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pavankommi" height="30" width="30" /></a>&thinsp;
-<a href="https://instagram.com/pavankommi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pavankommi" height="30" width="30" /></a>&thinsp;
-<a href="https://stackoverflow.com/users/pavankommi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="pavankommi" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/pavankommi" target="blank"><img align="center" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/96cafbd73ec4339b8c73c36673ce1518db82cc5c/svgs/brands/linkedin.svg" alt="pavankommi" height="30" width="30" /></a>&thinsp;
+<a href="https://instagram.com/pavankommi" target="blank"><img align="center" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/96cafbd73ec4339b8c73c36673ce1518db82cc5c/svgs/brands/instagram.svg" alt="pavankommi" height="30" width="30" /></a>&thinsp;
+<a href="https://stackoverflow.com/users/pavankommi" target="blank"><img align="center" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/96cafbd73ec4339b8c73c36673ce1518db82cc5c/svgs/brands/stack-overflow.svg" alt="pavankommi" height="30" width="30" /></a>
 </p>
 
 <h3 align="left">I use</h3>

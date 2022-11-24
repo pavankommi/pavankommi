@@ -37,6 +37,12 @@ export default function Home() {
     )
 }
 
+// hower
+// onMouseEnter={e => setFirstLineFontSize("11vw")} onMouseLeave={e => setFirstLineFontSize("10vw")} style={[styles.helloStyle, { fontSize: firstLineFontSize }]} 
+
+//color
+// onMouseOver={({ target }) => target.style.color = "orange"} onMouseOut={({ target }) => target.style.color = "white"}
+
 const styles = StyleSheet.create({
     container: {
         position: "relative",
