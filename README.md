@@ -2,7 +2,7 @@
 ### A passionate Software developer from India
 
 - 🌱 I’m currently learning **Node.js, Firebase**
-- 👨‍💻 All of my projects are available at [pavankommi.vercel.app](pavankommi.vercel.app)
+- 👨‍💻 All of my projects are available at [pavankommi.github.io](https://pavankommi.github.io/)
 - 💬 Ask me about **React**
 
 ### I use
