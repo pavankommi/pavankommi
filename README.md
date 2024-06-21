@@ -1,8 +1,8 @@
-## Hi there👋, I'm Pavan
-### A passionate Software developer from India
+## Hi, I'm Pavan! 👋
+### I'm a software developer focused on React, Node.js, and Firebase.
 
 - 🌱 I’m currently learning **Node.js, Firebase**
-- 👨‍💻 All of my projects are available at [pavankommi.github.io](https://pavankommi.github.io/)
+- 👨‍💻 Check out my projects at [pavankommi.github.io](https://pavankommi.github.io/)
 - 💬 Ask me about **React**
 
 ### I use
@@ -24,4 +24,5 @@
 <a href="https://www.instagram.com/pavankommi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/pavankommi/pavankommi/e36979c17fd56cf8c69dbc32eff1b608ac122ad7/assets/icons/Instagram.svg" alt="instagram/pavankommi" height="30" width="30" /></a>&thinsp;
 <a href="https://stackoverflow.com/users/17376691/pavankommi" target="blank"><img align="center" src="https://raw.githubusercontent.com/pavankommi/pavankommi/e36979c17fd56cf8c69dbc32eff1b608ac122ad7/assets/icons/Stack%20Overflow.svg" alt="stackoverflow/pavankommi" height="30" width="30" /></a>
 </p>
+Let's chat about code and create something awesome together!
 
